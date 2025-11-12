@@ -67,7 +67,7 @@ Application is deployed in Github Pages
 
 ### **1.1 Purpose**
 
-This document outlines the components, and design considerations for add printing functionality to reactjs application.
+This document outlines the components, and design considerations for implementing multiple contexts with Context API in reactjs application.
 
 ## **2. Installation**
 
