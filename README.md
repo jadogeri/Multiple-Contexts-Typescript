@@ -13,7 +13,9 @@ This is a frontend Application temnplate for Implementing Multiple Contexts for 
 
 - [@jadogeri](https://www.github.com/jadogeri)
 
-
+## Acknowledements
+    Google AI
+    
 ## Deployment
 
 Application is deployed in Github Pages
@@ -22,7 +24,7 @@ Application is deployed in Github Pages
 
 ## Repository
 
-- [source code ](https://github.com/jadogeri/Multiple_Contexts_Typescript.git)
+- [source code ](https://github.com/jadogeri/Multiple-Contexts-Typescript)
 
 ## Screenshots
 
@@ -81,16 +83,16 @@ This document outlines the components, and design considerations for add printin
 
 1 Open command prompt or terminal.
 
-2 Type command git clone https://github.com/jadogeri/Multiple_Contexts_Typescript.git then press enter.
+2 Type command git clone https://github.com/jadogeri/Multiple-Contexts-Typescript.git then press enter.
 
 ```bash
-  git clone https://github.com/jadogeri/Multiple_Contexts_Typescript.git
+  git clone https://github.com/jadogeri/Multiple-Contexts-Typescript.git
 ```
 
-3 Enter command cd Multiple_Contexts_Typescript/app then press enter.
+3 Enter command cd Multiple-Contexts-Typescript/app then press enter.
 
 ```bash
-  cd Multiple_Contexts_Typescript/app
+  cd Multiple-Contexts-Typescript/app
 ```
 
 #### **3.1.1 Run Locally**
