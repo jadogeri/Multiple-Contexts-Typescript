@@ -13,9 +13,9 @@ This is a frontend Application temnplate for Implementing Multiple Contexts for 
 
 - [@jadogeri](https://www.github.com/jadogeri)
 
-## Acknowledements
+## Acknowledgements
     Google AI
-    
+
 ## Deployment
 
 Application is deployed in Github Pages
