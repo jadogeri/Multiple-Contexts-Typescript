@@ -1,4 +1,3 @@
- import React, { useEffect, useState } from 'react';
 import { useAuthContext } from './contexts/AuthContext';
 import { useAppContext } from './contexts/AppContext';
 import logo from './logo.svg';
@@ -15,7 +14,7 @@ function App() {
         <div>
           <p style={{color:color}}>User Authenticated: {authState.isAuthenticated ? 'Yes' : 'No'}</p>
           <p style={{color:color}}>App Theme: {appState.theme}</p>
-          <button onClick={() => signIn('my-token-123')} color={color}>Sign In</button>
+          <button onClick={() => signIn('token')} color={color}>Sign In</button>
           <button onClick={signOut}>Sign Out</button>
           <button onClick={toggleTheme}>Toggle Theme</button>
         </div>
