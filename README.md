@@ -44,21 +44,21 @@ Application is deployed in Github Pages
       </li>
     </ul>
      <ul>
-      <li><a href="#5-installation">2. Installation</a>
+      <li><a href="#2-installation">2. Installation</a>
       </li>
     </ul> 
     <ul>
-        <li><a href="#6-usage">3. Usage</a>
+        <li><a href="#3-usage">3. Usage</a>
         <ul>
-            <li><a href="#61-run-application">3.1 Run Application</a> </li>
+            <li><a href="#31-run-application">3.1 Run Application</a> </li>
             <ul>
-              <li><a href="#611-run-locally">3.1.1 Run Locally</a> </li>
+              <li><a href="#311-run-locally">3.1.1 Run Locally</a> </li>
             </ul>
         </ul>
         </li>
     </ul> 
     <ul> 
-        <li><a href="#10-references">4. References</a>
+        <li><a href="#4-references">4. References</a>
         </li>
     <ul>
 </ul>
